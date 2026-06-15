@@ -1,4 +1,6 @@
-[![Followers](https://img.shields.io/github/followers/CoDe-ReDz?label=Followers&style=flat-square)](https://github.com/CoDe-ReDz)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mFRzTLvr/grogu-star-wars.gif" alt="grogu star wars" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'><br />
+
+[![GitHub followers](https://img.shields.io/github/followers/CoDe-ReDz?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/CoDe-ReDz)
 [![Passionate Developer](https://img.shields.io/badge/Passion-ML%20%26%20CV-blue?style=flat-square)]()
 
 ## About

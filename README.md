@@ -9,8 +9,6 @@
 - 📅 Hacking Since: 2026
 - 🎯 Current Focus: Building projects that push the boundaries of what's possible with ML and CV
 
-## Featured Projects
-- 💙 [Mental Support Website](https://gazdwvfv3t.zite.so) — A platform dedicated to providing mental health support and wellness resources.
 
 ## Tech & Interests
 - 🧰 Languages: Python, Java
@@ -18,6 +16,6 @@
 - ❤️ Interests: Artificial Intelligence, Innovation, Creative Problem Solving
 
 ## Community Involvement
-- 🌍 **MLH Global Hack Week** — Active participant and contributor, building meaningful projects and connecting with the global hacking community
+- 🌍 **HACKATHONS** — Active participant and contributor, building meaningful projects and connecting with the global hacking community
 
 

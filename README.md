@@ -11,7 +11,7 @@
 
 
 ## Tech & Interests
-- 🧰 Languages: Python, Java
+- 🧰 Languages: Python, Java, C++
 - 🔭 Focus: Machine Learning, Computer Vision
 - ❤️ Interests: Artificial Intelligence, Innovation, Creative Problem Solving
 

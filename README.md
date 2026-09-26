@@ -64,7 +64,4 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for Visiting!** 
 
-**"Every great intelligent system starts with a single line of code."**
-
-📫 Let's Connect on [GitHub](https://github.com/CoDe-ReDz)
 
